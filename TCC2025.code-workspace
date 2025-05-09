@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "E:/TCC2025"
+		},
+		{
+			"path": "docs"
+		},
+		{
+			"path": "model"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "routes"
+		},
+		{
+			"path": "view"
+		},
+		{
+			"path": "control"
+		}
+	],
+	"settings": {}
+}
